@@ -1,5 +1,5 @@
-# Snapcraft Polish Crew
+# Snapcrafters Papercut Crew
 
-This repository tracks the progress of the snapcraft polish crew.
+This repository tracks the progress of the snapcrafters papercut crew.
 
-For more information, [read the wiki](https://github.com/snapcrafters/polish-crew/wiki)
+For more information, [read the wiki](https://github.com/snapcrafters/papercut-crew/wiki)
