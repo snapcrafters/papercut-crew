@@ -1,5 +1,5 @@
-# Snapcrafters Papercut Crew
+# Snapcrafters Papercuts Crew
 
-This repository tracks the progress of the snapcrafters papercut crew.
+This repository tracks the progress of the snapcrafters papercuts crew.
 
-For more information, [read the wiki](https://github.com/snapcrafters/papercut-crew/wiki)
+For more information, [read the wiki](https://github.com/snapcrafters/papercuts-crew/wiki)
