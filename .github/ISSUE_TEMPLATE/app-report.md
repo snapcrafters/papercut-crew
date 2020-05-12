@@ -1,40 +1,41 @@
 ---
 name: App Report
 about: 'A report of the state of a snap: which issues does the snap have?'
-title: "<snap-name>"
+title: "{name}"
 labels: needs-testing
 assignees: ''
-
 ---
 
-## Links
+> ℹ This issue tracks the quality of the snap `{name}`. If something in this list is outdated, please let us know by writing a comment below. If you're interested in helping out, please read the [testing guide](https://github.com/snapcrafters/papercuts-crew/wiki/Testing-Guide) and [the fixing guide](https://github.com/snapcrafters/papercuts-crew/wiki/Fixing-Guide).
 
-* [Bugtracker]()
-* [Online Store Page]()
+## Info
+
+* [Online Store Page]({store_url})
+* [Bugtracker]({contact})
+* [Contact]({contact})
 
 ## Checklist
 
 ### Functionality
 
-- [ ] Runs without crashing
-- [ ] All functionality works
-- [ ] Works on Wayland
-- [ ] Is up-to-date
-
+* [ ] Runs without crashing
+* [ ] All functionality works
+* [ ] Works on Wayland
+* [ ] Is up-to-date
 
 ### Ease of Use
 
-- [ ] Starts quickly
-- [ ] Size comparable to regular package
+* [ ] Starts quickly
+* [ ] Size comparable to regular package
 
 ### Metadata
 
-- [ ] Title, summary, description and license are correct
-- [ ] Website and contact url are correct
-- [ ] Has screenshots
-- [ ] Store Icon is correct
+* [ ] Title, summary, description and license are correct
+* [ ] Website and contact url are correct
+* [ ] Has screenshots
+* [ ] Store Icon is correct
 
-# Look and Feel
+### Look and Feel
 
-- [ ] Has a working desktop launcher with Icon
-- [ ] Uses system themes *(not applicable to most games)*
+* [ ] Has a working desktop launcher with Icon
+* [ ] Uses system themes *(not applicable to most games)*
